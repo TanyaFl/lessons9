@@ -267,7 +267,6 @@ color: #ffffff;
 
 }
 .special-bonus__detail {
-width: 400px;
 font-size: var(--font-size-xs);
 line-height: var(--line-height-lg);
 color: var(--color-white);
